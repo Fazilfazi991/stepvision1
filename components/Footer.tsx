@@ -16,7 +16,7 @@ export default function Footer() {
                         <Link href="/" className="flex items-center mb-6">
                             <div className="relative h-14 w-60">
                                 <Image
-                                    src="/logo.jpg"
+                                    src="/logo.png"
                                     alt="Stepvision International Trading LLC"
                                     fill
                                     className="object-contain"
